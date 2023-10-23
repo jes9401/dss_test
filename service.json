@@ -13,5 +13,7 @@
       "hint": "....",
       "required": true
     }
-  ]
+  ],
+  "url": "http://blah.blah",
+  "citation": "http://blah.blah.blah"
 }    
